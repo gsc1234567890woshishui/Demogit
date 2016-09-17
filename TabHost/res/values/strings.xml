@@ -1,0 +1,14 @@
+<resources>
+
+    <string name="homepage_indicator">标签一</string>
+    <string name="billboard_indicator">标签二</string>
+    <string name="mylottery_indicator">标签三</string>
+    <string name="more_indicator">标签四</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_homepage">HomepageActivity</string>
+    <string name="title_activity_billboard">BillboardActivity</string>
+    <string name="title_activity_my_lottery">MyLotteryActivity</string>
+    <string name="title_activity_more">MoreActivity</string>
+
+</resources>
