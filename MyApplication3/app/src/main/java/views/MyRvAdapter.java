@@ -6,7 +6,6 @@ import android.view.ViewGroup;
 import android.widget.CheckBox;
 import android.widget.TextView;
 import org.zzgsc.com.demo_ch.R;
-
 import java.util.ArrayList;
 import java.util.List;
 /**
@@ -74,7 +73,6 @@ public class MyRvAdapter extends RecyclerView.Adapter {
     public class Vh extends RecyclerView.ViewHolder {
         public CheckBox cb;
         public TextView tv;
-
         public Vh(View itemView) {
             super(itemView);
             cb= (CheckBox) itemView.findViewById(R.id.cb);
@@ -84,7 +82,6 @@ public class MyRvAdapter extends RecyclerView.Adapter {
     public class Vh1 extends RecyclerView.ViewHolder {
         public Vh1(View itemView) {
           super(itemView);
-
         }
     }
 }

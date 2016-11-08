@@ -45,4 +45,5 @@ dependencies {
     compile 'com.squareup.okio:okio:1.7.0'
     compile 'com.github.devlight:infinitecycleviewpager:1.0.2'
     compile 'uk.co.chrisjenx:calligraphy:2.2.0'
+
 }

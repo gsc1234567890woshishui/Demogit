@@ -92,6 +92,12 @@
 
         </activity>
         <activity android:name="views.TestRv">
+
+        </activity>
+        <activity android:name="dbs.DbTest">
+
+        </activity>
+        <activity android:name="views.TestDb2">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
